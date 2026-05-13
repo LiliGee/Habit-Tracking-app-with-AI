@@ -1,0 +1,16 @@
+{
+  "name": "HabitFlow",
+  "short_name": "HabitFlow",
+  "description": "Your personal AI habit coach",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0faf4",
+  "theme_color": "#2d8c54",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
